@@ -1,0 +1,7 @@
+{
+  "name": "gemini_clone",
+  "description": "A fully functional web application that clones the core features of the Google Gemini website, providing a seamless, responsive chat experience with support for text and image inputs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
